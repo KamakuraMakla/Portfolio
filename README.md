@@ -11,7 +11,7 @@ https://cloverfes.com/2025/
 (掲載広告の契約の都合により非公開としています。) https://cloverfes.com/2024/
 
 ## データ分析系
-### 自己責任論のゆくえ (制作中)
+### 自己責任論のゆくえ (制作中, 一時的に非公開にしています。)
 https://kamakuramakla.github.io/DisparityStats/
 
 データジャーナリズムもどきにも挑戦しようと思います。
