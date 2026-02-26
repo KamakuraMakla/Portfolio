@@ -5,7 +5,7 @@
 
 ## Web
 ### 同志社クローバー祭 2025年度 特設Webサイト
-https://cloverfes.com/
+https://cloverfes.com/2025/
 
 ## データ分析系
 
