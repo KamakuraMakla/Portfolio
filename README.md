@@ -19,6 +19,7 @@ https://kamakuramakla.github.io/ITMNorebus
 
 ### 北の大地 - 消えゆく鉄路
 リポジトリ: https://github.com/KamakuraMakla/hokkaido-railroaddata-app
+
 App: https://kamakuramakla.github.io/hokkaido-railroaddata-app/
 
 Vue.js を中心として、AIを用いながらのWeb開発に挑戦しました。
