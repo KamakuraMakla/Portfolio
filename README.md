@@ -21,6 +21,13 @@ https://kamakuramakla.github.io/ITMNorebus
 本アプリケーションの表示内容について、公共交通事業者への直接の問合せは行わないでください。
 本アプリケーションに関するお問い合わせは、このREADME一番下のメールアドレスにお願いします。
 
+### 「文化に届く機会はどこまで平等か」
+※未デプロイですが、原稿を整えて、近日デプロイします。
+https://github.com/KamakuraMakla/cultural-transportation-analytics
+
+文化に届くこととは、どういうことか。様々な文化が非合理とみなされる世の中で、あえて、その文化にフォーカスをあてて可視化しました。
+e-Statの関連データや、国土数値情報を用いて、Python + R を用いて分析しました。
+
 ### 北の大地 - 消えゆく鉄路
 リポジトリ: https://github.com/KamakuraMakla/hokkaido-railroaddata-app
 
