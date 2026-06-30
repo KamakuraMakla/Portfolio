@@ -24,10 +24,14 @@ https://kamakuramakla.github.io/ITMNorebus
 ### 「文化に届く機会はどこまで平等か」
 ※未デプロイですが、原稿を整えて、近日デプロイします。
 
-https://github.com/KamakuraMakla/cultural-transportation-analytics　(主にWeb App)
+https://github.com/KamakuraMakla/cultural-transportation-analytics　
+
+(主にWeb App)
 
 
-https://github.com/KamakuraMakla/cultural-transportation-anal-R (R での分析)
+https://github.com/KamakuraMakla/cultural-transportation-anal-R
+
+(R での分析)
 
 
 
