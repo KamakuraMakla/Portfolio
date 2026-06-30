@@ -23,7 +23,8 @@ https://kamakuramakla.github.io/ITMNorebus
 
 ### 「文化に届く機会はどこまで平等か」
 ※未デプロイですが、原稿を整えて、近日デプロイします。
-https://github.com/KamakuraMakla/cultural-transportation-analytics
+https://github.com/KamakuraMakla/cultural-transportation-analytics　(主にWeb App)
+https://github.com/KamakuraMakla/cultural-transportation-anal-R (R での分析)
 
 文化に届くこととは、どういうことか。様々な文化が非合理とみなされる世の中で、あえて、その文化にフォーカスをあてて可視化しました。
 e-Statの関連データや、国土数値情報を用いて、Python + R を用いて分析しました。
@@ -49,4 +50,4 @@ Flask + React を中心とした、Webニュースアプリです。(AI駆動開
 ## 連絡先
 e-mail: mklkmkl_work@ymail.ne.jp
 
-2026.4.02. 更新
+2026.6.30. 更新
